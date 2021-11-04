@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /src/client/archive
-/src/client/config
+/src/server/dbactions
 # testing
 /coverage
 
