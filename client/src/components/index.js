@@ -1,6 +1,6 @@
 import React from "react";
 import PageNavbar from "./navbar";
-import PageContents from "./contents";
+import PageContents from "../pages/index"
 import { BrowserRouter } from "react-router-dom";
 import { Container } from "react-bootstrap";
 
