@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, Button, Accordion } from "react-bootstrap";
+import { Form, Button } from "react-bootstrap";
 
 class LeaveApplication extends React.Component {
   render() {

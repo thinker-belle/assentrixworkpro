@@ -9,7 +9,6 @@ import {
   Col,
   Row,
   Form,
-  FloatingLabel,
 } from "react-bootstrap";
 
 function Employees() {
